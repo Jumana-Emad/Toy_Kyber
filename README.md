@@ -29,3 +29,4 @@ This repository contains an implementation of a toy-version of the Kyber Post-Qu
 
 ## References
 - Kyber: A CCA-Secure Module-Lattice-Based KEM ([Paper](https://eprint.iacr.org/2017/634.pdf)).
+- [Assignment 2](https://drive.google.com/drive/folders/1N-rL31oYr2I8UbggU3AjL4cWFV5Xi7l6)
